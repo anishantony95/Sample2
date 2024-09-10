@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class FirstClass {
 	@GetMapping("/get")
 	public String num() {
-		return "Anish Antony";
+		return "testGit";
 
 }
 	@GetMapping("/getadd")
